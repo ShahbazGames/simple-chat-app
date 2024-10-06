@@ -1,5 +1,5 @@
 
-import Conversation from './sidebar/Conversation'
+import Conversation from './Conversation'
 
 const Conversations = () => {
   return (

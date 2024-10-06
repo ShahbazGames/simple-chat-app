@@ -7,5 +7,9 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-    
+	
+    scrollbar-width: thin; /* Thin scrollbar */
+    scrollbar-color: #1e1e1e #444; /* Thumb color #1e1e1e, track color #444 */
 }
+
+
