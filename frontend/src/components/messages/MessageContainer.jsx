@@ -28,12 +28,12 @@ const MessageContainer = () => {
         <Messages/>
         <MessageInput/>
         </>
-        )};
+        )}
     </div>
   );
 };
 
-export default MessageContainer
+export default MessageContainer;
 
 const NoChatSelected=() => {
     const { authUser } = useAuthContext();
